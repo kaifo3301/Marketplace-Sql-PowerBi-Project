@@ -1,0 +1,251 @@
+seller_id,seller_tier,seller_country,on_time_target_pct
+S0001,Standard,Brazil,92
+S0002,Standard,Singapore,92
+S0003,Preferred,Netherlands,95
+S0004,New,Germany,88
+S0005,Standard,Singapore,92
+S0006,Standard,Netherlands,92
+S0007,Standard,Brazil,92
+S0008,Standard,Netherlands,92
+S0009,New,Netherlands,88
+S0010,Preferred,United States,95
+S0011,Preferred,Singapore,95
+S0012,New,United States,88
+S0013,Standard,Netherlands,92
+S0014,New,Brazil,88
+S0015,Standard,United States,92
+S0016,New,Brazil,88
+S0017,Preferred,Singapore,95
+S0018,Standard,Singapore,92
+S0019,Standard,United States,92
+S0020,Standard,Brazil,92
+S0021,Standard,Singapore,92
+S0022,Preferred,Germany,95
+S0023,New,Netherlands,88
+S0024,Standard,Singapore,92
+S0025,Standard,Netherlands,92
+S0026,Standard,United States,92
+S0027,New,Singapore,88
+S0028,Standard,United States,92
+S0029,Standard,United States,92
+S0030,Preferred,Singapore,95
+S0031,Standard,Singapore,92
+S0032,Standard,Brazil,92
+S0033,Preferred,Germany,95
+S0034,Preferred,Brazil,95
+S0035,Preferred,Germany,95
+S0036,Standard,Netherlands,92
+S0037,Standard,Germany,92
+S0038,Standard,Netherlands,92
+S0039,Standard,Netherlands,92
+S0040,Standard,Singapore,92
+S0041,Standard,Singapore,92
+S0042,Standard,Netherlands,92
+S0043,Preferred,Brazil,95
+S0044,Standard,Singapore,92
+S0045,Standard,Brazil,92
+S0046,New,Germany,88
+S0047,Standard,Brazil,92
+S0048,Standard,Netherlands,92
+S0049,Preferred,Brazil,95
+S0050,New,United States,88
+S0051,Preferred,United States,95
+S0052,New,Singapore,88
+S0053,Preferred,Singapore,95
+S0054,Standard,Singapore,92
+S0055,Preferred,Germany,95
+S0056,Standard,Netherlands,92
+S0057,New,United States,88
+S0058,Standard,Netherlands,92
+S0059,Standard,Germany,92
+S0060,Preferred,Singapore,95
+S0061,Preferred,Singapore,95
+S0062,Standard,Netherlands,92
+S0063,Preferred,United States,95
+S0064,Standard,Brazil,92
+S0065,New,Netherlands,88
+S0066,Standard,Germany,92
+S0067,Preferred,United States,95
+S0068,Preferred,Brazil,95
+S0069,New,Germany,88
+S0070,Standard,Germany,92
+S0071,New,Singapore,88
+S0072,Standard,Germany,92
+S0073,Standard,Singapore,92
+S0074,Standard,Singapore,92
+S0075,New,Brazil,88
+S0076,Standard,Netherlands,92
+S0077,Standard,Netherlands,92
+S0078,Standard,Brazil,92
+S0079,Preferred,Germany,95
+S0080,Standard,Germany,92
+S0081,Standard,Brazil,92
+S0082,Standard,Germany,92
+S0083,New,Netherlands,88
+S0084,Standard,Brazil,92
+S0085,Standard,Brazil,92
+S0086,Standard,United States,92
+S0087,New,Netherlands,88
+S0088,Standard,Germany,92
+S0089,Standard,Singapore,92
+S0090,New,United States,88
+S0091,Preferred,United States,95
+S0092,New,Brazil,88
+S0093,Standard,Singapore,92
+S0094,Standard,Brazil,92
+S0095,Standard,Germany,92
+S0096,Standard,United States,92
+S0097,Standard,Singapore,92
+S0098,Standard,Brazil,92
+S0099,Standard,Singapore,92
+S0100,Standard,Germany,92
+S0101,Standard,United States,92
+S0102,Preferred,Brazil,95
+S0103,Standard,Singapore,92
+S0104,Standard,Germany,92
+S0105,Preferred,United States,95
+S0106,New,Brazil,88
+S0107,Preferred,Netherlands,95
+S0108,Standard,Brazil,92
+S0109,Standard,United States,92
+S0110,Standard,Brazil,92
+S0111,Standard,Brazil,92
+S0112,Standard,Germany,92
+S0113,New,Netherlands,88
+S0114,New,Netherlands,88
+S0115,Preferred,Singapore,95
+S0116,Standard,Brazil,92
+S0117,Standard,Netherlands,92
+S0118,Standard,Germany,92
+S0119,Standard,Brazil,92
+S0120,New,United States,88
+S0121,New,Germany,88
+S0122,New,Brazil,88
+S0123,Standard,Brazil,92
+S0124,Standard,United States,92
+S0125,Preferred,Brazil,95
+S0126,Preferred,Germany,95
+S0127,Standard,Brazil,92
+S0128,Standard,Netherlands,92
+S0129,Standard,United States,92
+S0130,Preferred,Netherlands,95
+S0131,Standard,Germany,92
+S0132,Preferred,Brazil,95
+S0133,Preferred,Brazil,95
+S0134,Standard,Netherlands,92
+S0135,New,Netherlands,88
+S0136,New,United States,88
+S0137,Preferred,Germany,95
+S0138,Standard,Singapore,92
+S0139,Preferred,Singapore,95
+S0140,Standard,Singapore,92
+S0141,Standard,United States,92
+S0142,Standard,Germany,92
+S0143,Standard,Germany,92
+S0144,Standard,Germany,92
+S0145,Standard,Germany,92
+S0146,Standard,Germany,92
+S0147,Standard,Brazil,92
+S0148,Standard,Brazil,92
+S0149,Preferred,Singapore,95
+S0150,Standard,United States,92
+S0151,Standard,Singapore,92
+S0152,New,Brazil,88
+S0153,New,Brazil,88
+S0154,Preferred,Singapore,95
+S0155,Standard,Netherlands,92
+S0156,Standard,Germany,92
+S0157,Standard,Brazil,92
+S0158,New,Singapore,88
+S0159,Standard,Netherlands,92
+S0160,New,Singapore,88
+S0161,Preferred,Brazil,95
+S0162,Standard,Brazil,92
+S0163,Standard,United States,92
+S0164,Preferred,Netherlands,95
+S0165,Standard,Singapore,92
+S0166,Standard,Germany,92
+S0167,New,Brazil,88
+S0168,Standard,United States,92
+S0169,Preferred,Netherlands,95
+S0170,Standard,Germany,92
+S0171,Standard,Germany,92
+S0172,Standard,Singapore,92
+S0173,Standard,Germany,92
+S0174,Standard,Germany,92
+S0175,Standard,Singapore,92
+S0176,Standard,Germany,92
+S0177,Standard,Germany,92
+S0178,Standard,Netherlands,92
+S0179,Standard,Germany,92
+S0180,Standard,Netherlands,92
+S0181,New,Netherlands,88
+S0182,New,United States,88
+S0183,Standard,Germany,92
+S0184,Standard,Germany,92
+S0185,Preferred,Brazil,95
+S0186,Standard,Germany,92
+S0187,New,United States,88
+S0188,Preferred,Singapore,95
+S0189,Standard,Brazil,92
+S0190,Standard,Germany,92
+S0191,Standard,Netherlands,92
+S0192,New,Netherlands,88
+S0193,Standard,Germany,92
+S0194,Standard,Netherlands,92
+S0195,New,Brazil,88
+S0196,New,Brazil,88
+S0197,Standard,Singapore,92
+S0198,Preferred,Singapore,95
+S0199,Standard,United States,92
+S0200,Standard,Singapore,92
+S0201,Standard,Brazil,92
+S0202,Standard,Germany,92
+S0203,Standard,Netherlands,92
+S0204,Standard,United States,92
+S0205,Standard,Netherlands,92
+S0206,New,Singapore,88
+S0207,Standard,United States,92
+S0208,Standard,Singapore,92
+S0209,Preferred,Singapore,95
+S0210,Standard,Netherlands,92
+S0211,Standard,United States,92
+S0212,New,Brazil,88
+S0213,Standard,Singapore,92
+S0214,New,United States,88
+S0215,Standard,Singapore,92
+S0216,Preferred,Brazil,95
+S0217,Standard,Netherlands,92
+S0218,Standard,Brazil,92
+S0219,Standard,Brazil,92
+S0220,New,Singapore,88
+S0221,Standard,United States,92
+S0222,New,Brazil,88
+S0223,Standard,Singapore,92
+S0224,New,Germany,88
+S0225,Standard,Singapore,92
+S0226,Preferred,Germany,95
+S0227,Standard,Germany,92
+S0228,Standard,Germany,92
+S0229,New,Netherlands,88
+S0230,New,United States,88
+S0231,Preferred,Singapore,95
+S0232,Standard,Netherlands,92
+S0233,Standard,Netherlands,92
+S0234,Preferred,Brazil,95
+S0235,Preferred,Germany,95
+S0236,Standard,United States,92
+S0237,Standard,Singapore,92
+S0238,Standard,Brazil,92
+S0239,New,Singapore,88
+S0240,New,Netherlands,88
+S0241,New,Brazil,88
+S0242,Standard,Brazil,92
+S0243,Preferred,Brazil,95
+S0244,Standard,Germany,92
+S0245,New,United States,88
+S0246,Standard,Netherlands,92
+S0247,Standard,Singapore,92
+S0248,Standard,United States,92
+S0249,Preferred,United States,95
+S0250,New,Netherlands,88
